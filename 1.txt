@@ -1,0 +1,29 @@
+user_name = "dong gyu"
+user_id = 201955075
+user_email = "dragonmonky@hs.ac.kr"
+is_student = False
+
+주석 # ,
+"""
+aaa
+"""
+(shift + enter)
+chairs = 6
+tables = 2
+broken_chairs = 1
+sofas = 1
+
+"""
+Data Types: Real Numbers
+"""
+pi = 3.14
+kospi_index = 3125.76
+krw_use_exchange = 1176.83
+
+"""
+Data Types: Strings
+"""
+favorite_game = "League of legends"
+favorite_song = 'stay'
+favorite_food = 'burger'
+
